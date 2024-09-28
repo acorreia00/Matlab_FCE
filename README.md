@@ -1,1 +1,1 @@
-Repositorio para a Cadeira de Ferramentas Computacionais para Engenharia no ISEL , Licenciatura em Engenharia Eletrotecnica
+Repository for Computing Tools for Engineering at ISEL, Electrical Engineering BSc.
